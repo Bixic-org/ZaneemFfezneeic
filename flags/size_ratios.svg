@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 570.43 200" x="187.93" y="70">
+  <!-- 南部邦旗 -->
+  <style type="text/css">
+    .grue{fill:#42bcac;}
+    .sky{fill:#00a2e8;}
+    .prairie{fill:#1eb53a;}
+    .yel{fill:#F7bd29;}
+  </style>
+  <!-- 1:2.85216 -->
+  <g class="grue">
+  <rect width="570.43" height="200" />
+  </g>
+  <!-- 1:2.68486 -->
+  <g class="sky">
+  <rect width="536.97" height="200" />
+  </g>
+  <!-- 11:28 -->
+  <g class="yel">
+  <rect width="509.09" height="200" />
+  </g>
+  <!-- 74:95.03795 -->
+  <g class="prairie">
+  <rect width="256.859332" height="200" />
+  </g>
+</svg>
